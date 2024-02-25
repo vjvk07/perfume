@@ -1,0 +1,61 @@
+nav{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 75px;
+
+}
+h1{
+    margin: 20px;
+}
+h1,ul,li{
+    display: inline;
+    padding-top:20px;
+}
+
+ul{
+    margin-left: 60%;
+    padding-left: 5px;
+}
+li:hover{
+    background-color: white;
+    color:brown;
+}
+input{
+    width: 60%;
+    padding: 15px;
+    margin: 50px;
+    font-display: inline-block;
+}
+.searchbar{
+    text-align: center;
+}
+.box{
+    border-color: black;
+    border-width: 2x;
+    border-style: solid;
+    display: inline-block; 
+    width: 220px;
+    text-align: center;
+    margin-left: 10px;
+}
+.products{
+    text-align: center;
+}
+.about{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    padding: 20px;
+}
+.contact{
+    background-color: black;
+    text-align: center;
+    color: grey;
+    margin-top: 10px;
+
+}
+.art{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
